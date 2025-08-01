@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r001",
+    "name": "Spice Garden",
+    "city": "Mumbai",
+    "cuisine": "Indian",
+    "capacity": 40,
+    "time_slots": ["18:00", "19:00", "20:00", "21:00"]
+  },
+  {
+    "id": "r002",
+    "name": "Sushi Central",
+    "city": "Delhi",
+    "cuisine": "Japanese",
+    "capacity": 30,
+    "time_slots": ["17:30", "19:00", "20:30"]
+  },
+  {
+    "id": "r003",
+    "name": "The Italian Bowl",
+    "city": "Pune",
+    "cuisine": "Italian",
+    "capacity": 50,
+    "time_slots": ["18:00", "19:30", "21:00"]
+  }
+]
